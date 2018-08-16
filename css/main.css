@@ -24,12 +24,12 @@ header div {
 section.main {
     width: 80%;
     margin: 0 auto;
-    background: white;
 }
 
-section div {
+.content {
     padding: 20px;
     border: 2px;
-    -webkit-border-radius: 20px;
-    border-radius: 20px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    background: white;
 }
