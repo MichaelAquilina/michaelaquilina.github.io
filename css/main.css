@@ -1,0 +1,35 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: #f2f2f2;
+}
+
+header div {
+    height: 50px;
+    background: black;
+    width: 100%;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 10px;
+    font-size: 18px;
+
+    line-height: 20px;
+}
+
+section.main {
+    width: 80%;
+    margin: 0 auto;
+    background: white;
+}
+
+section div {
+    padding: 20px;
+    border: 2px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
